@@ -1,0 +1,73 @@
+.Navbar {
+    padding: 5px 15px !important;
+    background-color: var(--backgroundnav);
+    border: 1px solid var(--grey15);
+    color: var(--white-color);
+}
+.Navbar .logoWrapper img {
+    height: 33px;
+    width: 33px;
+}
+.Navbar ul {
+    margin: auto;
+}
+.Navbar ul li a {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    padding: 8px 18px 8px 18px !important;
+}
+.Navbar .Active {
+    border-radius: 8px;
+    border: 2px solid var(--grey-20);
+    background-color: var(--grey-8);
+    padding: 10px;
+    color: var(--white-color) !important;
+}
+.Navbar .btnWrapper a {
+    padding: 4px 16px 4px 16px !important;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    border: none;
+}
+.Navbar .btnWrapper a:hover {
+    background-color: var(--green60);
+}
+.Navbar .btnWrapper {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.Navbar .btnWrapper a:focus {
+    box-shadow: none !important;
+}
+.lilist {
+    color: var(--white-color) !important;
+}
+.contactBtn {
+    border-radius: 8px;
+    border: 2px solid var(--grey-20);
+    background-color: var(--grey-8);
+    padding: 10px;
+    color: var(--white-color) !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
